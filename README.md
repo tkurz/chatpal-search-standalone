@@ -14,3 +14,7 @@ Optional: push the image to dockerhub (after building):
 ```
 docker push chatpal/search-standalone
 ```
+
+## Deploy
+
+You can use the latest docker file `chatpal/search-standalone` from [Docker Hub](https://hub.docker.com/r/chatpal/search-standalone/).
